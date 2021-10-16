@@ -1,0 +1,19 @@
+.forma {
+    display: flex;
+    /* width: 5rem; */
+    /* height: 5rem; */
+    font-size: 3rem;
+    color: white;
+    /* background-color: black; */
+    border-radius: 1rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 160px 35px;
+}
+
+img {
+    display: flex;
+    width: 125px;
+    border-radius: 50%;
+}
